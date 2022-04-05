@@ -20,7 +20,7 @@ Clone the project
 `git clone git@github.com:giovanedann/gpt3-project.git`
 
 Choose the directory
-`cd gpt3`
+`cd gpt3-project`
 
 Install the dependencies and wait for the installation
 `npm install` or `yarn install`
