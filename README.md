@@ -23,7 +23,7 @@ Choose the directory
 `cd gpt3-project`
 
 Install the dependencies and wait for the installation
-`npm install` or `yarn install`
+`npm install`
 
 Start the project
 `npm start`
